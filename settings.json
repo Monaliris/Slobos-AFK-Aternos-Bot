@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Reload",
+    "username": "MeThangDoMixi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mbb36.aternos.me",
-    "port": 44552,
-    "version": "1.21.11",
+    "ip": "mmmb2-zQm6.aternos.me",
+    "port": 15741,
+    "version": "26.1.1",
     "try-creative": false
   },
   "position": {
